@@ -58,3 +58,6 @@
 [submodule "mina-examples"]
 	path = mina-examples
 	url = https://github.com/sxyx2008/mina-examples.git
+[submodule "activemq-example"]
+	path = activemq-example
+	url = https://github.com/sxyx2008/activemq-example.git
