@@ -60,3 +60,9 @@
 	path = elasticsearch-jest-example
 	
 	url = https://github.com/sxyx2008/elasticsearch-jest-example.git
+
+[submodule "spring-data-elasticsearch-example"]
+	
+	path = spring-data-elasticsearch-example
+	
+	url = https://github.com/sxyx2008/spring-data-elasticsearch-example.git
