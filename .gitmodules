@@ -44,25 +44,17 @@
 	path = javaee7-samples
 	url = https://github.com/javaee-samples/javaee7-samples.git
 [submodule "resteasy-restfull-examples"]
-	
 	path = resteasy-restfull-examples
-	
 	url = https://github.com/sxyx2008/resteasy-restfull-examples.git
-
 [submodule "jersey2-restfull-examples"]
-	
 	path = jersey2-restfull-examples
-	
 	url = https://github.com/sxyx2008/jersey2-restfull-examples.git
-
 [submodule "elasticsearch-jest-example"]
-	
 	path = elasticsearch-jest-example
-	
 	url = https://github.com/sxyx2008/elasticsearch-jest-example.git
-
 [submodule "spring-data-elasticsearch-example"]
-	
 	path = spring-data-elasticsearch-example
-	
 	url = https://github.com/sxyx2008/spring-data-elasticsearch-example.git
+[submodule "mina-examples"]
+	path = mina-examples
+	url = https://github.com/sxyx2008/mina-examples.git
