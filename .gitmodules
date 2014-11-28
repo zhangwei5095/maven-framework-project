@@ -61,3 +61,7 @@
 [submodule "activemq-example"]
 	path = activemq-example
 	url = https://github.com/sxyx2008/activemq-example.git
+
+[submodule "jhipster-sample-app"]
+	path = jhipster-sample-app
+	url = https://github.com/jhipster/jhipster-sample-app.git
