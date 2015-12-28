@@ -198,6 +198,8 @@ git submodule update
 
 *[http://websystique.com/](http://websystique.com/)*
 
+*[http://blog.zenika.com/category/tribus/java/](http://blog.zenika.com/category/tribus/java/)*
+
 *欢迎补充*
 
 
