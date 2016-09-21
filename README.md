@@ -196,6 +196,9 @@ git submodule update
 
 *[http://howtodoinjava.com/](http://howtodoinjava.com/)*
 
+*[http://websystique.com/](http://websystique.com/)*
+
+*[http://blog.zenika.com/category/tribus/java/](http://blog.zenika.com/category/tribus/java/)*
 
 *欢迎补充*
 
